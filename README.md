@@ -1,36 +1,36 @@
-# 🚀 Angular + Spring Boot Full Stack Project
+#  Angular + Spring Boot Full Stack Project
 
 A full-stack web application built using **Angular (Frontend)** and **Spring Boot (Backend)** for managing a healthcare system including doctors, patients, appointments, billing, and prescriptions.
 
 ---
 
-## 📌 Features
+##  Features
 
-### 👨‍⚕️ Doctor Management
+###  Doctor Management
 - Add, update, delete doctors
 - View doctor details
 
-### 🧑‍🤝‍🧑 Patient Management
+###  Patient Management
 - Patient registration
 - Update patient information
 - View patient history
 
-### 📅 Appointment System
+###  Appointment System
 - Book appointments
 - Manage appointment status
 
-### 💊 Prescription Management
+###  Prescription Management
 - Create and view prescriptions
 
-### 💰 Billing System
+###  Billing System
 - Generate bills for patients
 
-### 🤖 AI Chatbot (if included)
+###  AI Chatbot (if included)
 - Chat-based assistant for medical queries
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend:
 - Angular
